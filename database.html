@@ -1,0 +1,29 @@
+<head>
+	<title>database query</title>
+</head>
+<body style="background-color:#EDE9E9">
+	<h2 style="font-family:arial color:blue">
+    query a mysql database.</h2>
+   
+ <form method="post" action="database.php?type=1">
+ 	<p> select a field to display:
+    <select name="select">
+    <!--select box containing options for select query-->
+    <option selected = "selected">*</option>
+    <option>userID</option>
+    <option>firstName</option>
+    <option>lastName</option>
+    <option>email</option>
+    <option>homeAddress</option>
+    <option>homePhone</option>
+    <option>cellPhone</option>
+    </select>
+    </p>
+    <p>input your infomation:
+    <input name = "INFO" type="text" placeholder="type what you want" />
+    </p>
+    <input type="submit" value="Send Query"
+    style="background-color: blue;color: yellow; font-weight:bold"/>
+    </form>
+    <input type="button" value="Back" onclick="history.back(-1)" />
+    </body>

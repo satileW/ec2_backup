@@ -1,0 +1,11 @@
+MagicWeapon Company
+
+This is company mainly sell magic tools used in the magic world like magic stick, sword and so on. Owner like the Harry Potter so much, she’s kinda of got this idea of open a store to sell the unofficial materials.
+
+magic stick, magic sword, magic ring, magic hat, Pigeon
+
+Comes to open session, magic weapon at sell with group price! 
+
+Contacts: one person company’ owner email: satileW@gmail.com /tel:408646**** /time available: 9:00am ~ 5:00pm
+
+ ssh -i /home/kashif/serverkey.pem  ubuntu@ec2-54-227-242-179.compute-1.amazonaws.com
